@@ -5,6 +5,7 @@
 
 #webots specific files
 *worlds/.*.jpg
+*worlds/.*.wbproj
 
 # User-specific files
 *.rsuser
